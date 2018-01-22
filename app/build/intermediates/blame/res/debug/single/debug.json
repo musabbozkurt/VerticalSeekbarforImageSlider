@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_normal_wide.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_normal_wide.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_normal.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb.xml.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ileri_button.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-ldpi\\ileri_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_vertical.xml.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\progress_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_pressed_wide.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_pressed_wide.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_wide.xml.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_selected.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slide_activity_background.xml.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-ldpi\\slide_activity_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_selected_wide.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_selected_wide.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slide_altina.jpg.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-ldpi\\slide_altina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seek_thumb_pressed.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-mdpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_geri_button.png.flat",
+        "source": "C:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\src\\main\\res\\drawable-ldpi\\geri_button.png"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slide_background">
+    <stroke android:width="20dp"
+        android:color="#3d3d3d" />
+    <padding android:left="0dp"
+        android:top="0dp"
+        android:right="0dp"
+        android:bottom="0dp" />
+    <corners android:radius="10dp" />
+    <solid android:color="#ffffffff" />
+</shape>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/black" />
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/slide_background">
+            <stroke android:width="20dp"
+                android:color="#3d3d3d" />
+            <padding android:left="0dp"
+                android:top="0dp"
+                android:right="0dp"
+                android:bottom="0dp" />
+            <corners android:radius="10dp" />
+            <solid android:color="#ffffffff" />
+        </shape>
+    </item>
+
+</layer-list>-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/black" />
+        </shape>
+    </item>
+    <item>
+        <!--
+            android:shape
+                Keyword. Defines the type of shape. Valid values are:
+
+                    rectangle : A rectangle that fills the containing View. This is the default shape.
+                    oval : An oval shape that fits the dimensions of the containing View.
+                    line : A horizontal line that spans the width of the containing View. This
+                           shape requires the <stroke> element to define the width of the line.
+                    ring : A ring shape.
+        -->
+        <shape android:shape="rectangle">
+            <solid android:color="@color/black"/>
+            <stroke android:color="@color/darkGray"
+                android:width="15dp"/>
+            <corners android:radius="10dp" />
+
+            <!-- Set the same value for both width and height to get a circular shape -->
+        </shape>
+    </item>
+</layer-list>

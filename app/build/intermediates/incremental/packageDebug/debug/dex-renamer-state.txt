@@ -1,0 +1,4 @@
+#Mon Jan 22 07:32:48 EET 2018
+base.0=C\:\\Users\\ORHAN\\Downloads\\mT\\VerticalSlidebar1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
